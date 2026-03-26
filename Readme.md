@@ -20,7 +20,7 @@ Libraries:
   - numpy → numerical operations
   - matplotlib & seaborn → data visualization
 
-Environment: Jupyter Notebook
+Environment: Python
 Dataset: [Titanic – Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (train.csv)
 
 Key Findings
